@@ -1,0 +1,1693 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Odegaard2017}{article}{}
+    \name{author}{3}{}{%
+      {{hash=OB}{%
+         family={Odegaard},
+         familyi={O\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KRT}{%
+         family={Knight},
+         familyi={K\bibinitperiod},
+         given={Robert\bibnamedelima T.},
+         giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lau},
+         familyi={L\bibinitperiod},
+         given={Hakwan},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \keyw{attention,awareness,consciousness,metacognition,prefrontal cortex}
+    \strng{namehash}{OB+1}
+    \strng{fullhash}{OBKRTLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Is activity in prefrontal cortex (PFC) critical for conscious perception?
+  Major theories of consciousness make distinct predictions about the role of
+  PFC, providing an opportunity to arbitrate between these views empirically.
+  Here we address three common misconceptions: (1) PFC lesions do not affect
+  subjective perception; (2) PFC activity does not reflect specific perceptual
+  content; and (3) PFC involvement in studies of perceptual awareness is solely
+  driven by the need to make reports required by the experimental tasks rather
+  than subjective experience per se. These claims are incompatible with
+  empirical findings, unless one focuses only on studies using methods with
+  limited sensitivity. The literature highlights PFC's essential role in
+  enabling the subjective experience in perception, contra the objective
+  capacity to perform visual tasks; conflating the two can also be a source of
+  confusion.Dual Perspectives Companion Paper: Are the Neural Correlates of
+  Consciousness in the Front or in the Back of the Cerebral Cortex? Clinical
+  and Neuroimaging Evidence, by Melanie Boly, Marcello Massimini, Naotsugu
+  Tsuchiya, Bradley R. Postle, Christof Koch, and Giulio Tononi.%
+    }
+    \verb{doi}
+    \verb 10.1523/JNEUROSCI.3217-16.2017
+    \endverb
+    \field{issn}{0270-6474}
+    \field{number}{40}
+    \field{pages}{9593\bibrangedash 9602}
+    \field{title}{{Should a Few Null Findings Falsify Prefrontal Theories of
+  Conscious Perception?}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/28978696 http://www.pubmedcentral.
+    \verb nih.gov/articlerender.fcgi?artid=PMC5628405 http://www.jneurosci.org/
+    \verb lookup/doi/10.1523/JNEUROSCI.3217-16.2017
+    \endverb
+    \field{volume}{37}
+    \field{journaltitle}{The Journal of Neuroscience}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Boly2017}{article}{}
+    \name{author}{6}{}{%
+      {{hash=BM}{%
+         family={Boly},
+         familyi={B\bibinitperiod},
+         given={Melanie},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Massimini},
+         familyi={M\bibinitperiod},
+         given={Marcello},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TN}{%
+         family={Tsuchiya},
+         familyi={T\bibinitperiod},
+         given={Naotsugu},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=PBR}{%
+         family={Postle},
+         familyi={P\bibinitperiod},
+         given={Bradley\bibnamedelima R.},
+         giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Koch},
+         familyi={K\bibinitperiod},
+         given={Christof},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tononi},
+         familyi={T\bibinitperiod},
+         given={Giulio},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \keyw{consciousness,frontal cortex,lesion studies,neuroimaging,stimulation
+  studies}
+    \strng{namehash}{BM+1}
+    \strng{fullhash}{BMMMTNPBRKCTG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    The role of the frontal cortex in consciousness remains a matter of debate.
+  In this Perspective, we will critically review the clinical and neuroimaging
+  evidence for the involvement of the front versus the back of the cortex in
+  specifying conscious contents and discuss promising research avenues.Dual
+  Perspectives Companion Paper: Should a Few Null Findings Falsify Prefrontal
+  Theories of Conscious Perception?, by Brian Odegaard, Robert T. Knight, and
+  Hakwan Lau.%
+    }
+    \verb{doi}
+    \verb 10.1523/JNEUROSCI.3218-16.2017
+    \endverb
+    \field{issn}{0270-6474}
+    \field{number}{40}
+    \field{pages}{9603\bibrangedash 9613}
+    \field{title}{{Are the Neural Correlates of Consciousness in the Front or
+  in the Back of the Cerebral Cortex? Clinical and Neuroimaging Evidence}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/28978697 http://www.pubmedcentral.
+    \verb nih.gov/articlerender.fcgi?artid=PMC5628406 http://www.jneurosci.org/
+    \verb lookup/doi/10.1523/JNEUROSCI.3218-16.2017
+    \endverb
+    \field{volume}{37}
+    \field{journaltitle}{The Journal of Neuroscience}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Brascamp2018}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BJ}{%
+         family={Brascamp},
+         familyi={B\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sterzer},
+         familyi={S\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blake},
+         familyi={B\bibinitperiod},
+         given={Randolph},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Knapen},
+         familyi={K\bibinitperiod},
+         given={Tomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \keyw{binocular rivalry,functional magnetic resonance imaging,multistable
+  perception,perceptual inference,predictive coding,transcranial magnetic
+  stimulation}
+    \strng{namehash}{BJ+1}
+    \strng{fullhash}{BJSPBRKT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    A given pattern of optical stimulation can arise from countless possible
+  real-world sources, creating a dilemma for vision: What in the world actually
+  gives rise to the current pattern? This dilemma was pointed out centuries ago
+  by the astronomer and mathematician Ibn Al-Haytham and was forcefully
+  restated 150 years ago when von Helmholtz characterized perception as
+  unconscious inference. To buttress his contention, von Helmholtz cited
+  multistable perception: recurring changes in perception despite unchanging
+  sensory input. Recent neuroscientific studies have exploited multistable
+  perception to identify brain areas uniquely activated in association with
+  these perceptual changes, but the specific roles of those activations remain
+  controversial. This article provides an overview of theoretical models of
+  multistable perception, a review of recent neuroimaging and brain stimulation
+  studies focused on mechanisms associated with these perceptual changes, and a
+  synthesis of available evidence within the context of current notions about
+  Bayesian inference that find their historical roots in von Helmholtz's work.%
+    }
+    \verb{doi}
+    \verb 10.1146/annurev-psych-010417-085944
+    \endverb
+    \field{issn}{0066-4308}
+    \field{number}{1}
+    \field{pages}{77\bibrangedash 103}
+    \field{title}{{Multistable Perception and the Role of the Frontoparietal
+  Cortex in Perceptual Inference}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/28854000 http://www.annualreviews.
+    \verb org/doi/10.1146/annurev-psych-010417-085944
+    \endverb
+    \field{volume}{69}
+    \field{journaltitle}{Annual Review of Psychology}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Sterzer2009}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SP}{%
+         family={Sterzer},
+         familyi={S\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kleinschmidt},
+         familyi={K\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Rees},
+         familyi={R\bibinitperiod},
+         given={Geraint},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \keyw{Brain,Brain Mapping,Brain: anatomy {\&} histology,Brain:
+  physiology,Functional Laterality,Functional Laterality:
+  physiology,Humans,Neural Pathways,Neural Pathways: anatomy {\&}
+  histology,Neural Pathways: physiology,Perception,Perception:
+  classification,Perception: physiology,Physical Stimulation}
+    \strng{namehash}{SP+1}
+    \strng{fullhash}{SPKARG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Multistable perception is the spontaneous alternation between two or more
+  perceptual states that occurs when sensory information is ambiguous.
+  Multistable phenomena permit dissociation of neural activity related to
+  conscious perception from that related to sensory stimulation, and therefore
+  have been used extensively to study the neural correlates of consciousness.
+  Here, we review recent work on the neural mechanisms underlying multistable
+  perception and how such work has contributed to understanding the neural
+  correlates of consciousness. Particular emphasis is put on the role of
+  high-level brain mechanisms that are involved in actively selecting and
+  interpreting sensory information, and their interactions with lower-level
+  processes that are more directly concerned with the processing of sensory
+  stimulus properties.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.tics.2009.04.006
+    \endverb
+    \field{issn}{1364-6613}
+    \field{number}{7}
+    \field{pages}{310\bibrangedash 8}
+    \field{title}{{The neural bases of multistable perception.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/19540794
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{Trends in cognitive sciences}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hohwy2008a}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HJ}{%
+         family={Hohwy},
+         familyi={H\bibinitperiod},
+         given={Jakob},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Roepstorff},
+         familyi={R\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FK}{%
+         family={Friston},
+         familyi={F\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{Attention,Attention: physiology,Awareness,Awareness: physiology,Bayes
+  Theorem,Brain,Brain: physiology,Dominance, Cerebral,Dominance, Cerebral:
+  physiology,Humans,Knowledge,Motion Perception,Motion Perception:
+  physiology,Probability,Psychophysics,Vision Disparity,Vision Disparity:
+  physiology,Visual Pathways,Visual Pathways: physiology,Visual
+  Perception,Visual Perception: physiology}
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJRAFK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Binocular rivalry occurs when the eyes are presented with different stimuli
+  and subjective perception alternates between them. Though recent years have
+  seen a number of models of this phenomenon, the mechanisms behind binocular
+  rivalry are still debated and we still lack a principled understanding of why
+  a cognitive system such as the brain should exhibit this striking kind of
+  behaviour. Furthermore, psychophysical and neurophysiological (single cell
+  and imaging) studies of rivalry are not unequivocal and have proven difficult
+  to reconcile within one framework. This review takes an epistemological
+  approach to rivalry that considers the brain as engaged in probabilistic
+  unconscious perceptual inference about the causes of its sensory input. We
+  describe a simple empirical Bayesian framework, implemented with predictive
+  coding, which seems capable of explaining binocular rivalry and reconciling
+  many findings. The core of the explanation is that selection of one stimulus,
+  and subsequent alternation between stimuli in rivalry occur when: (i) there
+  is no single model or hypothesis about the causes in the environment that
+  enjoys both high likelihood and high prior probability and (ii) when one
+  stimulus dominates, the bottom-up, driving signal for that stimulus is
+  explained away while, crucially, the bottom-up signal for the suppressed
+  stimulus is not, and remains as an unexplained but explainable prediction
+  error signal. This induces instability in perceptual dynamics that can give
+  rise to perceptual transitions or alternations during rivalry.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.cognition.2008.05.010
+    \endverb
+    \field{issn}{0010-0277}
+    \field{number}{3}
+    \field{pages}{687\bibrangedash 701}
+    \field{title}{{Predictive coding explains binocular rivalry: an
+  epistemological review.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/18649876
+    \endverb
+    \field{volume}{108}
+    \verb{file}
+    \verb :home/veithweilnhammer/.local/share/data/Mendeley Ltd./Mendeley Deskt
+    \verb op/Downloaded/Hohwy, Roepstorff, Friston - 2008 - Predictive coding e
+    \verb xplains binocular rivalry an epistemological review.pdf:pdf
+    \endverb
+    \field{journaltitle}{Cognition}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Hohwy2012}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HJ}{%
+         family={Hohwy},
+         familyi={H\bibinitperiod},
+         given={Jakob},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ1}
+    \strng{fullhash}{HJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Conscious perception and attention are difficult to study, partly because
+  their relation to each other is not fully understood. Rather than conceiving
+  and studying them in isolation from each other it may be useful to locate
+  them in an independently motivated, general framework, from which a
+  principled account of how they relate can then emerge. Accordingly, these
+  mental phenomena are here reviewed through the prism of the increasingly
+  influential predictive coding framework. On this framework, conscious
+  perception can be seen as the upshot of prediction error minimization and
+  attention as the optimization of precision expectations during such
+  perceptual inference. This approach maps on well to a range of standard
+  characteristics of conscious perception and attention, and can be used to
+  interpret a range of empirical findings on their relation to each other.%
+    }
+    \verb{doi}
+    \verb 10.3389/fpsyg.2012.00096
+    \endverb
+    \field{issn}{1664-1078}
+    \field{pages}{96}
+    \field{title}{{Attention and conscious perception in the hypothesis testing
+  brain.}}
+    \verb{url}
+    \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3317264{\&}
+    \verb tool=pmcentrez{\&}rendertype=abstract
+    \endverb
+    \field{volume}{3}
+    \verb{file}
+    \verb :home/veithweilnhammer/.local/share/data/Mendeley Ltd./Mendeley Deskt
+    \verb op/Downloaded/Hohwy - 2012 - Attention and conscious perception in th
+    \verb e hypothesis testing brain.pdf:pdf
+    \endverb
+    \field{journaltitle}{Frontiers in psychology}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Sterzer2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SP}{%
+         family={Sterzer},
+         familyi={S\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Kleinschmidt},
+         familyi={K\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Adult,Female,Frontal Lobe,Frontal Lobe: physiology,Humans,Magnetic
+  Resonance Imaging,Male,Reaction Time,Visual Cortex,Visual Cortex:
+  physiology,Visual Perception,Visual Perception: physiology}
+    \strng{namehash}{SPKA1}
+    \strng{fullhash}{SPKA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    When looking at ambiguous visual stimuli, the observer experiences frequent
+  spontaneous transitions between two competing percepts while physical
+  stimulation remains unchanged. Despite recent advances in understanding the
+  neural processes underlying such perceptual rivalry, a key question has
+  remained unresolved: Does perceptual rivalry result merely from local
+  bistability of neural activity patterns in sensory stimulus representations,
+  or do higher-order areas play a causal role by shifting inference and, thus,
+  initiating perceptual changes? We used functional MRI to measure brain
+  activity while human observers reported successive spontaneous changes in
+  perceived direction for an ambiguous apparent motion stimulus. In a control
+  condition, the individual sequences of spontaneous perceptual switches during
+  bistability were replayed by using a disambiguated version of the stimulus.
+  Greater activations during spontaneous compared with stimulus-driven switches
+  were observed in inferior frontal cortex bilaterally. Subsequent chronometric
+  analyses of event-related signal time courses showed that, relative to
+  activations in motion-sensitive extrastriate visual cortex, right inferior
+  frontal cortex activation occurred earlier during spontaneous than during
+  stimulus-driven perceptual changes. The temporal precedence of right inferior
+  frontal activations suggests that this region participates in initiating
+  spontaneous switches in perception during constant physical stimulation. Our
+  findings can thus be seen as a signature of when and where the brain "makes
+  up its mind" about competing perceptual interpretations of a given sensory
+  input pattern.%
+    }
+    \verb{doi}
+    \verb 10.1073/pnas.0609006104
+    \endverb
+    \field{issn}{0027-8424}
+    \field{number}{1}
+    \field{pages}{323\bibrangedash 8}
+    \field{title}{{A neural basis for inference in perceptual ambiguity.}}
+    \verb{url}
+    \verb http://www.pnas.org/content/104/1/323.abstract
+    \endverb
+    \field{volume}{104}
+    \verb{file}
+    \verb :home/veithweilnhammer/.local/share/data/Mendeley Ltd./Mendeley Deskt
+    \verb op/Downloaded/Sterzer, Kleinschmidt - 2007 - A neural basis for infer
+    \verb ence in perceptual ambiguity.pdf:pdf
+    \endverb
+    \field{journaltitle}{Proceedings of the National Academy of Sciences of the
+  United States of America}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Lumer1998}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LED}{%
+         family={Lumer},
+         familyi={L\bibinitperiod},
+         given={E\bibnamedelima D},
+         giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=FKJ}{%
+         family={Friston},
+         familyi={F\bibinitperiod},
+         given={K\bibnamedelima J},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=RG}{%
+         family={Rees},
+         familyi={R\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+    }
+    \keyw{Brain,Brain Mapping,Brain: physiology,Frontal Lobe,Frontal Lobe:
+  physiology,Humans,Magnetic Resonance Imaging,Neurons,Neurons:
+  physiology,Parietal Lobe,Parietal Lobe: physiology,Space Perception,Vision,
+  Binocular,Visual Cortex,Visual Cortex: physiology,Visual Perception}
+    \strng{namehash}{LED+1}
+    \strng{fullhash}{LEDFKJRG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    When dissimilar images are presented to the two eyes, perception alternates
+  spontaneously between each monocular view, a phenomenon called binocular
+  rivalry. Functional brain imaging in humans was used to study the neural
+  basis of these subjective perceptual changes. Cortical regions whose activity
+  reflected perceptual transitions included extrastriate areas of the ventral
+  visual pathway, and parietal and frontal regions that have been implicated in
+  spatial attention; whereas the extrastriate areas were also engaged by
+  nonrivalrous perceptual changes, activity in the frontoparietal cortex was
+  specifically associated with perceptual alternation only during rivalry.
+  These results suggest that frontoparietal areas play a central role in
+  conscious perception, biasing the content of visual awareness toward abstract
+  internal representations of visual scenes, rather than simply toward space.%
+    }
+    \field{issn}{0036-8075}
+    \field{number}{5371}
+    \field{pages}{1930\bibrangedash 4}
+    \field{title}{{Neural correlates of perceptual rivalry in the human
+  brain.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/9632390
+    \endverb
+    \field{volume}{280}
+    \field{journaltitle}{Science (New York, N.Y.)}
+    \field{year}{1998}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Weilnhammer2013}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WVA}{%
+         family={Weilnhammer},
+         familyi={W\bibinitperiod},
+         given={Veith\bibnamedelima A},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Ludwig},
+         familyi={L\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hesselmann},
+         familyi={H\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sterzer},
+         familyi={S\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \keyw{Adult,Brain Mapping,Female,Frontal Lobe,Frontal Lobe:
+  physiology,Humans,Magnetic Resonance Imaging,Male,Motion Perception,Motion
+  Perception: physiology,Parietal Lobe,Parietal Lobe: physiology,Photic
+  Stimulation,Visual Pathways,Visual Pathways: physiology,Visual
+  Perception,Visual Perception: physiology}
+    \strng{namehash}{WVA+2}
+    \strng{fullhash}{WVALKHGSP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    During bistable vision, perception oscillates between two mutually
+  exclusive percepts despite constant sensory input. Greater BOLD responses in
+  frontoparietal cortex have been shown to be associated with endogenous
+  perceptual transitions compared with "replay" transitions designed to closely
+  match bistability in both perceptual quality and timing. It has remained
+  controversial, however, whether this enhanced activity reflects causal
+  influences of these regions on processing at the sensory level or,
+  alternatively, an effect of stimulus differences that result in, for example,
+  longer durations of perceptual transitions in bistable perception compared
+  with replay conditions. Using a rotating Lissajous figure in an fMRI
+  experiment on 15 human participants, we controlled for potential confounds of
+  differences in transition duration and confirmed previous findings of greater
+  activity in frontoparietal areas for transitions during bistable perception.
+  In addition, we applied dynamic causal modeling to identify the neural model
+  that best explains the observed BOLD signals in terms of effective
+  connectivity. We found that enhanced activity for perceptual transitions is
+  associated with a modulation of top-down connectivity from frontal to visual
+  cortex, thus arguing for a crucial role of frontoparietal cortex in
+  perceptual transitions during bistable perception.%
+    }
+    \verb{doi}
+    \verb 10.1523/JNEUROSCI.1418-13.2013
+    \endverb
+    \field{issn}{1529-2401}
+    \field{number}{40}
+    \field{pages}{16009\bibrangedash 15}
+    \field{title}{{Frontoparietal cortex mediates perceptual transitions in
+  bistable perception.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/24089505
+    \endverb
+    \field{volume}{33}
+    \field{journaltitle}{The Journal of neuroscience : the official journal of
+  the Society for Neuroscience}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Knapen2011}{article}{}
+    \name{author}{5}{}{%
+      {{hash=KT}{%
+         family={Knapen},
+         familyi={K\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Brascamp},
+         familyi={B\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Pearson},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=vER}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Ee},
+         familyi={E\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blake},
+         familyi={B\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \keyw{Adult,Attention,Attention: physiology,Brain Mapping,Frontal
+  Lobe,Frontal Lobe: physiology,Humans,Image Processing,
+  Computer-Assisted,Magnetic Resonance Imaging,Male,Motion Perception,Motion
+  Perception: physiology,Nerve Net,Nerve Net: physiology,Parietal Lobe,Parietal
+  Lobe: physiology,Vision, Binocular,Vision, Binocular: physiology,Visual
+  Perception,Visual Perception: physiology}
+    \strng{namehash}{KT+1}
+    \strng{fullhash}{KTBJPJvERBR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    When sensory input allows for multiple, competing perceptual
+  interpretations, observers' perception can fluctuate over time, which is
+  called bistable perception. Imaging studies in humans have revealed transient
+  responses in a right-lateralized network in the frontal-parietal cortex
+  (rFPC) around the time of perceptual transitions between interpretations,
+  potentially reflecting the neural initiation of transitions. We investigated
+  the role of this activity in male human observers, with specific interest in
+  its relation to the temporal structure of transitions, which can be either
+  instantaneous or prolonged by periods during which observers experience a mix
+  of both perceptual interpretations. Using both bistable apparent motion and
+  binocular rivalry, we show that transition-related rFPC activity is larger
+  for transitions that last longer, suggesting that rFPC remains active as long
+  as a transition lasts. We also replicate earlier findings that rFPC activity
+  during binocular rivalry transitions exceeds activity during yoked
+  transitions that are simulated using video replay. However, we show that this
+  established finding holds only when perceptual transitions are replayed as
+  instantaneous events. When replay, instead, depicts transitions with the
+  actual durations reported during rivalry, yoked transitions and genuine
+  rivalry transitions elicit equal activity. Together, our results are
+  consistent with the view that at least a component of rFPC activation during
+  bistable perception reflects a response to perceptual transitions, both real
+  and yoked, rather than their cause. This component of activity could reflect
+  the change in sensory experience and task demand that occurs during
+  transitions, which fits well with the known role of these areas in attention
+  and decision making.%
+    }
+    \verb{doi}
+    \verb 10.1523/JNEUROSCI.1727-11.2011
+    \endverb
+    \field{issn}{0270-6474}
+    \field{number}{28}
+    \field{pages}{10293\bibrangedash 10301}
+    \field{title}{{The Role of Frontal and Parietal Brain Areas in Bistable
+  Perception}}
+    \verb{url}
+    \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=3146344{\&}
+    \verb tool=pmcentrez{\&}rendertype=abstract
+    \endverb
+    \field{volume}{31}
+    \verb{file}
+    \verb :home/veithweilnhammer/.local/share/data/Mendeley Ltd./Mendeley Deskt
+    \verb op/Downloaded/Knapen et al. - 2011 - The Role of Frontal and Parietal
+    \verb  Brain Areas in Bistable Perception.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of Neuroscience}
+    \field{year}{2011}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Frassle2014}{article}{}
+    \name{author}{5}{}{%
+      {{hash=FS}{%
+         family={Fr{\"{a}}ssle},
+         familyi={F\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Sommer},
+         familyi={S\bibinitperiod},
+         given={Jens},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jansen},
+         familyi={J\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Naber},
+         familyi={N\bibinitperiod},
+         given={Marnix},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EW}{%
+         family={Einh{\"{a}}user},
+         familyi={E\bibinitperiod},
+         given={Wolfgang},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \keyw{Adolescent,Adult,Female,Frontal Lobe,Frontal Lobe: blood
+  supply,Frontal Lobe: physiology,Humans,Male,Young Adult}
+    \strng{namehash}{FS+1}
+    \strng{fullhash}{FSSJJANMEW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    When two dissimilar stimuli are presented to the eyes, perception
+  alternates between multiple interpretations, a phenomenon dubbed binocular
+  rivalry. Numerous recent imaging studies have attempted to unveil neural
+  substrates underlying multistable perception. However, these studies had a
+  conceptual constraint: access to observers' perceptual state relied on their
+  introspection and active report. Here, we investigated to what extent neural
+  correlates of binocular rivalry in healthy humans are confounded by this
+  subjective measure and by action. We used the optokinetic nystagmus and pupil
+  size to objectively and continuously map perceptual alternations for
+  binocular-rivalry stimuli. Combining these two measures with fMRI allowed us
+  to assess the neural correlates of binocular rivalry time locked to the
+  perceptual alternations in the absence of active report. When observers were
+  asked to actively report their percept, our objective measures matched the
+  report. In this active condition, objective measures and subjective reporting
+  revealed that occipital, parietal, and frontal areas underlie the processing
+  of binocular rivalry, replicating earlier findings. Furthermore, objective
+  measures provided additional statistical power due to their continuous
+  nature. Importantly, when observers passively experienced rivalry without
+  reporting perceptual alternations, a different picture emerged: differential
+  neural activity in frontal areas was absent, whereas activation in occipital
+  and parietal regions persisted. Our results question the popular view of a
+  driving role of frontal areas in the initiation of perceptual alternations
+  during binocular rivalry. Instead, we conclude that frontal areas are
+  associated with active report and introspection rather than with rivalry per
+  se.%
+    }
+    \verb{doi}
+    \verb 10.1523/JNEUROSCI.4403-13.2014
+    \endverb
+    \field{issn}{1529-2401}
+    \field{number}{5}
+    \field{pages}{1738\bibrangedash 47}
+    \field{title}{{Binocular rivalry: frontal activity relates to introspection
+  and action but not to perception.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/24478356
+    \endverb
+    \field{volume}{34}
+    \field{journaltitle}{The Journal of neuroscience : the official journal of
+  the Society for Neuroscience}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Brascamp2015}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BJ}{%
+         family={Brascamp},
+         familyi={B\bibinitperiod},
+         given={Jan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Blake},
+         familyi={B\bibinitperiod},
+         given={Randolph},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Knapen},
+         familyi={K\bibinitperiod},
+         given={Tomas},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Nature Publishing Group, a division of Macmillan Publishers Limited. All
+  Rights Reserved.}%
+    }
+    \strng{namehash}{BJ+1}
+    \strng{fullhash}{BJBRKT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    The human brain's executive systems have a vital role in deciding and
+  selecting among actions. Selection among alternatives also occurs in the
+  perceptual domain; for instance, when perception switches between
+  interpretations during perceptual bistability. Whether executive systems also
+  underlie this functionality remains debated, with known fronto-parietal
+  concomitants of perceptual switches being variously interpreted as reflecting
+  the switches' cause or as reflecting their consequences. We developed a
+  procedure in which the two eyes receive different inputs and perception
+  demonstrably switches between these inputs, yet the switches themselves are
+  so inconspicuous as to become unreportable, minimizing their executive
+  consequences. Fronto-parietal fMRI BOLD responses that accompanied perceptual
+  switches were similarly minimized in this procedure, indicating that these
+  reflect the switches' consequences rather than their cause. We conclude that
+  perceptual switches do not always rely on executive brain areas and that
+  processes responsible for selection among alternatives may operate outside
+  the brain's executive systems.%
+    }
+    \verb{doi}
+    \verb 10.1038/nn.4130
+    \endverb
+    \field{issn}{1546-1726}
+    \field{number}{11}
+    \field{pages}{1672\bibrangedash 1678}
+    \field{shorttitle}{Nat Neurosci}
+    \field{title}{{Negligible fronto-parietal BOLD activity accompanying
+  unreportable switches in bistable perception.}}
+    \verb{url}
+    \verb http://dx.doi.org/10.1038/nn.4130
+    \endverb
+    \field{volume}{18}
+    \field{journaltitle}{Nature neuroscience}
+    \field{year}{2015}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Weilnhammer2017}{article}{}
+    \name{author}{5}{}{%
+      {{hash=WV}{%
+         family={Weilnhammer},
+         familyi={W\bibinitperiod},
+         given={Veith},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Stuke},
+         familyi={S\bibinitperiod},
+         given={Heiner},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hesselmann},
+         familyi={H\bibinitperiod},
+         given={Guido},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sterzer},
+         familyi={S\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SK}{%
+         family={Schmack},
+         familyi={S\bibinitperiod},
+         given={Katharina},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=DJ}{%
+         family={Daunizeau},
+         familyi={D\bibinitperiod},
+         given={Jean},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WV+1}
+    \strng{fullhash}{WVSHHGSPSK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    In bistable vision, subjective perception wavers between two
+  interpretations of a constant ambiguous stimulus. This dissociation between
+  conscious perception and sensory stimulation has motivated various empirical
+  studies on the neural correlates of bistable perception, but the
+  neurocomputational mechanism behind endogenous perceptual transitions has
+  remained elusive. Here, we recurred to a generic Bayesian framework of
+  predictive coding and devised a model that casts endogenous perceptual
+  transitions as a consequence of prediction errors emerging from residual
+  evidence for the suppressed percept. Data simulations revealed close
+  similarities between the model's predictions and key temporal characteristics
+  of perceptual bistability, indicating that the model was able to reproduce
+  bistable perception. Fitting the predictive coding model to behavioural data
+  from an fMRI-experiment on bistable perception, we found a correlation across
+  participants between the model parameter encoding perceptual stabilization
+  and the behaviourally measured frequency of perceptual transitions,
+  corroborating that the model successfully accounted for participants'
+  perception. Formal model comparison with established models of bistable
+  perception based on mutual inhibition and adaptation, noise or a combination
+  of adaptation and noise was used for the validation of the predictive coding
+  model against the established models. Most importantly, model-based analyses
+  of the fMRI data revealed that prediction error time-courses derived from the
+  predictive coding model correlated with neural signal time-courses in
+  bilateral inferior frontal gyri and anterior insulae. Voxel-wise model
+  selection indicated a superiority of the predictive coding model over
+  conventional analysis approaches in explaining neural activity in these
+  frontal areas, suggesting that frontal cortex encodes prediction errors that
+  mediate endogenous perceptual transitions in bistable perception. Taken
+  together, our current work provides a theoretical framework that allows for
+  the analysis of behavioural and neural data using a predictive coding
+  perspective on bistable perception. In this, our approach posits a crucial
+  role of prediction error signalling for the resolution of perceptual
+  ambiguities.%
+    }
+    \verb{doi}
+    \verb 10.1371/journal.pcbi.1005536
+    \endverb
+    \field{issn}{1553-7358}
+    \field{number}{5}
+    \field{pages}{e1005536}
+    \field{title}{{A predictive coding account of bistable perception - a
+  model-based fMRI study}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/28505152 http://www.pubmedcentral.
+    \verb nih.gov/articlerender.fcgi?artid=PMC5448813 http://dx.plos.org/10.137
+    \verb 1/journal.pcbi.1005536
+    \endverb
+    \field{volume}{13}
+    \field{journaltitle}{PLOS Computational Biology}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{knill_bayesian_2004}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KDC}{%
+         family={Knill},
+         familyi={K\bibinitperiod},
+         given={David\bibnamedelima C},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Pouget},
+         familyi={P\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Animals,Bayes Theorem,Biological,Brain,Humans,Models,Nerve
+  Net,Neurons,Perception}
+    \strng{namehash}{KDCPA1}
+    \strng{fullhash}{KDCPA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{abstract}{%
+    To use sensory information efficiently to make judgments and guide action
+  in the world, the brain must represent and use information about uncertainty
+  in its computations for perception and action. Bayesian methods have proven
+  successful in building computational theories for perception and sensorimotor
+  control, and psychophysics is providing a growing body of evidence that human
+  perceptual computations are "Bayes' optimal". This leads to the "Bayesian
+  coding hypothesis": that the brain represents sensory information
+  probabilistically, in the form of probability distributions. Several
+  computational schemes have recently been proposed for how this might be
+  achieved in populations of neurons. Neurophysiological data on the
+  hypothesis, however, is almost non-existent. A major challenge for
+  neuroscientists is to test these ideas experimentally, and so determine
+  whether and how neurons code information about sensory uncertainty.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.tins.2004.10.007
+    \endverb
+    \field{issn}{0166-2236}
+    \field{number}{12}
+    \field{pages}{712\bibrangedash 719}
+    \field{shorttitle}{The {\{}Bayesian{\}} brain}
+    \field{title}{{The {\{}Bayesian{\}} brain: the role of uncertainty in
+  neural coding and computation}}
+    \field{volume}{27}
+    \field{journaltitle}{Trends Neurosci.}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Friston2005}{article}{}
+    \name{author}{1}{}{%
+      {{hash=FK}{%
+         family={Friston},
+         familyi={F\bibinitperiod},
+         given={Karl},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \keyw{Biophysical Phenomena,Biophysics,Cerebral Cortex,Cerebral Cortex:
+  anatomy {\&} histology,Cerebral Cortex:
+  physiology,Electrophysiology,Humans,Interneurons,Interneurons:
+  cytology,Interneurons: physiology,Learning,Learning: physiology,Models,
+  Neurological,Models, Statistical,Perception,Perception:
+  physiology,Synapses,Synapses: physiology}
+    \strng{namehash}{FK1}
+    \strng{fullhash}{FK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    This article concerns the nature of evoked brain responses and the
+  principles underlying their generation. We start with the premise that the
+  sensory brain has evolved to represent or infer the causes of changes in its
+  sensory inputs. The problem of inference is well formulated in statistical
+  terms. The statistical fundaments of inference may therefore afford important
+  constraints on neuronal implementation. By formulating the original ideas of
+  Helmholtz on perception, in terms of modern-day statistical theories, one
+  arrives at a model of perceptual inference and learning that can explain a
+  remarkable range of neurobiological facts.It turns out that the problems of
+  inferring the causes of sensory input (perceptual inference) and learning the
+  relationship between input and cause (perceptual learning) can be resolved
+  using exactly the same principle. Specifically, both inference and learning
+  rest on minimizing the brain's free energy, as defined in statistical
+  physics. Furthermore, inference and learning can proceed in a biologically
+  plausible fashion. Cortical responses can be seen as the brain's attempt to
+  minimize the free energy induced by a stimulus and thereby encode the most
+  likely cause of that stimulus. Similarly, learning emerges from changes in
+  synaptic efficacy that minimize the free energy, averaged over all stimuli
+  encountered. The underlying scheme rests on empirical Bayes and hierarchical
+  models of how sensory input is caused. The use of hierarchical models enables
+  the brain to construct prior expectations in a dynamic and context-sensitive
+  fashion. This scheme provides a principled way to understand many aspects of
+  cortical organization and responses. The aim of this article is to encompass
+  many apparently unrelated anatomical, physiological and psychophysical
+  attributes of the brain within a single theoretical perspective. In terms of
+  cortical architectures, the theoretical treatment predicts that sensory
+  cortex should be arranged hierarchically, that connections should be
+  reciprocal and that forward and backward connections should show a functional
+  asymmetry (forward connections are driving, whereas backward connections are
+  both driving and modulatory). In terms of synaptic physiology, it predicts
+  associative plasticity and, for dynamic models, spike-timing-dependent
+  plasticity. In terms of electrophysiology, it accounts for classical and
+  extra classical receptive field effects and long-latency or endogenous
+  components of evoked cortical responses. It predicts the attenuation of
+  responses encoding prediction error with perceptual learning and explains
+  many phenomena such as repetition suppression, mismatch negativity (MMN) and
+  the P300 in electroencephalography. In psychophysical terms, it accounts for
+  the behavioural correlates of these physiological phenomena, for example,
+  priming and global precedence. The final focus of this article is on
+  perceptual learning as measured with the MMN and the implications for
+  empirical studies of coupling among cortical areas using evoked sensory
+  responses.%
+    }
+    \verb{doi}
+    \verb 10.1098/rstb.2005.1622
+    \endverb
+    \field{issn}{0962-8436}
+    \field{number}{1456}
+    \field{pages}{815\bibrangedash 36}
+    \field{title}{{A theory of cortical responses.}}
+    \verb{url}
+    \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1569488{\&}
+    \verb tool=pmcentrez{\&}rendertype=abstract
+    \endverb
+    \field{volume}{360}
+    \verb{file}
+    \verb :home/veithweilnhammer/.local/share/data/Mendeley Ltd./Mendeley Deskt
+    \verb op/Downloaded/Friston - 2005 - A theory of cortical responses.pdf:pdf
+    \endverb
+    \field{journaltitle}{Philosophical transactions of the Royal Society of
+  London. Series B, Biological sciences}
+    \field{year}{2005}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Clark2013}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CA}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Andy},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Attention,Attention: physiology,Brain,Brain:
+  physiology,Cognition,Cognition: physiology,Cognitive Science,Cognitive
+  Science: trends,Humans,Learning,Learning: physiology,Models,
+  Neurological,Perception,Perception: physiology}
+    \strng{namehash}{CA1}
+    \strng{fullhash}{CA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Brains, it has recently been argued, are essentially prediction machines.
+  They are bundles of cells that support perception and action by constantly
+  attempting to match incoming sensory inputs with top-down expectations or
+  predictions. This is achieved using a hierarchical generative model that aims
+  to minimize prediction error within a bidirectional cascade of cortical
+  processing. Such accounts offer a unifying model of perception and action,
+  illuminate the functional role of attention, and may neatly capture the
+  special contribution of cortical processing to adaptive success. This target
+  article critically examines this "hierarchical prediction machine" approach,
+  concluding that it offers the best clue yet to the shape of a unified science
+  of mind and action. Sections 1 and 2 lay out the key elements and
+  implications of the approach. Section 3 explores a variety of pitfalls and
+  challenges, spanning the evidential, the methodological, and the more
+  properly conceptual. The paper ends (sections 4 and 5) by asking how such
+  approaches might impact our more general vision of mind, experience, and
+  agency.%
+    }
+    \verb{doi}
+    \verb 10.1017/S0140525X12000477
+    \endverb
+    \field{issn}{1469-1825}
+    \field{number}{3}
+    \field{pages}{181\bibrangedash 204}
+    \field{title}{{Whatever next? Predictive brains, situated agents, and the
+  future of cognitive science.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/23663408
+    \endverb
+    \field{volume}{36}
+    \field{journaltitle}{The Behavioral and brain sciences}
+    \field{year}{2013}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Sundareswara2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SR}{%
+         family={Sundareswara},
+         familyi={S\bibinitperiod},
+         given={Rashmi},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SPR}{%
+         family={Schrater},
+         familyi={S\bibinitperiod},
+         given={Paul\bibnamedelima R},
+         giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \keyw{Bayes Theorem,Decision Making,Fixation, Ocular,Fixation, Ocular:
+  physiology,Form Perception,Form Perception: physiology,Humans,Memory,Memory:
+  physiology,Models, Neurological,Orientation,Orientation: physiology,Photic
+  Stimulation,Predictive Value of Tests}
+    \strng{namehash}{SRSPR1}
+    \strng{fullhash}{SRSPR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Perceptual multistability refers to the phenomenon of spontaneous
+  perceptual switching between two or more likely interpretations of an image.
+  Although frequently explained by processes of adaptation or hysteresis, we
+  show that perceptual switching can arise as a natural byproduct of perceptual
+  decision making based on probabilistic (Bayesian) inference, which interprets
+  images by combining probabilistic models of image formation with knowledge of
+  scene regularities. Empirically, we investigated the effect of introducing
+  scene regularities on Necker cube bistability by flanking the Necker cube
+  with fields of unambiguous cubes that are oriented to coincide with one of
+  the Necker cube percepts. We show that background cubes increase the time
+  spent in percepts most similar to the background. To characterize changes in
+  the temporal dynamics of the perceptual alternations beyond percept
+  durations, we introduce Markov Renewal Processes (MRPs). MRPs provide a
+  general mathematical framework for describing probabilistic switching
+  behavior in finite state processes. Additionally, we introduce a simple
+  theoretical model consistent with Bayesian models of vision that involves
+  searching for good interpretations of an image by sampling a posterior
+  distribution coupled with a decay process that favors recent to old
+  interpretations. The model has the same quantitative characteristics as our
+  human data and variation in model parameters can capture between-subject
+  variation. Because the model produces the same kind of stochastic process
+  found in human perceptual behavior, we conclude that multistability may
+  represent an unavoidable by-product of normal perceptual (Bayesian) decision
+  making with ambiguous images.%
+    }
+    \verb{doi}
+    \verb 10.1167/8.5.12
+    \endverb
+    \field{issn}{1534-7362}
+    \field{number}{5}
+    \field{pages}{12.1\bibrangedash 19}
+    \field{title}{{Perceptual multistability predicted by search model for
+  Bayesian decisions.}}
+    \verb{url}
+    \verb http://www.journalofvision.org/content/8/5/12.short
+    \endverb
+    \field{volume}{8}
+    \field{journaltitle}{Journal of vision}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Gershman2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GSJ}{%
+         family={Gershman},
+         familyi={G\bibinitperiod},
+         given={Samuel\bibnamedelima J},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=VE}{%
+         family={Vul},
+         familyi={V\bibinitperiod},
+         given={Edward},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=TJB}{%
+         family={Tenenbaum},
+         familyi={T\bibinitperiod},
+         given={Joshua\bibnamedelima B},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {en}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press 55 Hayward Street, Cambridge, MA 02142-1315 email:
+  journals-info@mit.edu}%
+    }
+    \keyw{Algorithms,Bayes Theorem,Brain,Brain: physiology,Humans,Markov
+  Chains,Models, Neurological,Monte Carlo Method,Nerve Net,Nerve Net:
+  physiology,Neural Networks (Computer),Neurons,Neurons: physiology,Signal
+  Processing, Computer-Assisted,Uncertainty,Visual Perception,Visual
+  Perception: physiology}
+    \strng{namehash}{GSJ+1}
+    \strng{fullhash}{GSJVETJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Ambiguous images present a challenge to the visual system: How can
+  uncertainty about the causes of visual inputs be represented when there are
+  multiple equally plausible causes? A Bayesian ideal observer should represent
+  uncertainty in the form of a posterior probability distribution over causes.
+  However, in many real-world situations, computing this distribution is
+  intractable and requires some form of approximation. We argue that the visual
+  system approximates the posterior over underlying causes with a set of
+  samples and that this approximation strategy produces perceptual
+  multistability--stochastic alternation between percepts in consciousness.
+  Under our analysis, multistability arises from a dynamic sample-generating
+  process that explores the posterior through stochastic diffusion,
+  implementing a rational form of approximate Bayesian inference known as
+  Markov chain Monte Carlo (MCMC). We examine in detail the most extensively
+  studied form of multistability, binocular rivalry, showing how a variety of
+  experimental phenomena--gamma-like stochastic switching, patchy percepts,
+  fusion, and traveling waves--can be understood in terms of MCMC sampling over
+  simple graphical models of the underlying perceptual tasks. We conjecture
+  that the stochastic nature of spiking neurons may lend itself to implementing
+  sample-based posterior approximations in the brain.%
+    }
+    \verb{doi}
+    \verb 10.1162/NECO_a_00226
+    \endverb
+    \field{issn}{1530-888X}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 24}
+    \field{title}{{Multistability and perceptual inference.}}
+    \verb{url}
+    \verb http://www.mitpressjournals.org/doi/abs/10.1162/NECO{\_}a{\_}00226?ur
+    \verb l{\_}ver=Z39.88-2003{\&}rfr{\_}id=ori:rid:crossref.org{\&}rfr{\_}dat=
+    \verb cr{\_}pub{\%}3Dpubmed{\#}.VTZMYOT1G1E
+    \endverb
+    \field{volume}{24}
+    \field{journaltitle}{Neural computation}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Tsuchiya2016}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TN}{%
+         family={Tsuchiya},
+         familyi={T\bibinitperiod},
+         given={Naotsugu},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=FS}{%
+         family={Fr{\"{a}}ssle},
+         familyi={F\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wilke},
+         familyi={W\bibinitperiod},
+         given={Melanie},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LV}{%
+         family={Lamme},
+         familyi={L\bibinitperiod},
+         given={Victor},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \keyw{Consciousness,NCC,introspection,report}
+    \strng{namehash}{TN+1}
+    \strng{fullhash}{TNFSWMLV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1016/j.tics.2016.01.006
+    \endverb
+    \field{issn}{1879-307X}
+    \field{number}{4}
+    \field{pages}{242\bibrangedash 243}
+    \field{title}{{No-Report and Report-Based Paradigms Jointly Unravel the
+  NCC: Response to Overgaard and Fazekas.}}
+    \verb{url}
+    \verb https://linkinghub.elsevier.com/retrieve/pii/S1364661316000243 http:/
+    \verb /www.ncbi.nlm.nih.gov/pubmed/26899261
+    \endverb
+    \field{volume}{20}
+    \field{journaltitle}{Trends in cognitive sciences}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Mumford2008}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MJA}{%
+         family={Mumford},
+         familyi={M\bibinitperiod},
+         given={Jeanette\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=NTE}{%
+         family={Nichols},
+         familyi={N\bibinitperiod},
+         given={Thomas\bibnamedelima E.},
+         giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Academic Press}%
+    }
+    \strng{namehash}{MJANTE1}
+    \strng{fullhash}{MJANTE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    When planning most scientific studies, one of the first steps is to carry
+  out a power analysis to define a design and sample size that will result in a
+  well-powered study. There are limited resources for calculating power for
+  group fMRI studies due to the complexity of the model. Previous approaches
+  for group fMRI power calculation simplify the study design and/or the
+  variance structure in order to make the calculation possible. These
+  approaches limit the designs that can be studied and may result in inaccurate
+  power calculations. We introduce a flexible power calculation model that
+  makes fewer simplifying assumptions, leading to a more accurate power
+  analysis that can be used on a wide variety of study designs. Our power
+  calculation model can be used to obtain region of interest (ROI) summaries of
+  the mean parameters and variance parameters, which can be use to increase
+  understanding of the data as well as calculate power for a future study. Our
+  example illustrates that minimizing cost to achieve 80{\%} power is not as
+  simple as finding the smallest sample size capable of achieving 80{\%} power,
+  since smaller sample sizes require each subject to be scanned longer.%
+    }
+    \verb{doi}
+    \verb 10.1016/J.NEUROIMAGE.2007.07.061
+    \endverb
+    \field{issn}{1053-8119}
+    \field{number}{1}
+    \field{pages}{261\bibrangedash 268}
+    \field{title}{{Power calculation for group fMRI studies accounting for
+  arbitrary design and temporal autocorrelation}}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S1053811907007100
+    \endverb
+    \field{volume}{39}
+    \field{journaltitle}{NeuroImage}
+    \field{year}{2008}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Pastukhov2012a}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PA}{%
+         family={Pastukhov},
+         familyi={P\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VV}{%
+         family={Vonau},
+         familyi={V\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Braun},
+         familyi={B\bibinitperiod},
+         given={Jochen},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Bayes Theorem,Conditioning (Psychology),Conditioning (Psychology):
+  physiology,Depth Perception,Depth Perception: physiology,Female,Form
+  Perception,Form Perception: physiology,Humans,Illusions,Illusions:
+  physiology,Male,Mental Processes,Mental Processes: physiology,Models,
+  Neurological,Motion Perception,Motion Perception: physiology,Photic
+  Stimulation,Photic Stimulation: methods}
+    \strng{namehash}{PA+1}
+    \strng{fullhash}{PAVVBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Planar motion flows can induce the illusory appearance of a volume rotating
+  in depth ("depth from motion"; G. Sperling, {\&} B. A. Dosher 1994). This
+  appearance changes spontaneously from time to time, reversing simultaneously
+  its depth and its direction of rotation. We investigated asymmetric illusory
+  volumes, which reverse more frequently at some angles of view than at others.
+  In three experiments, we studied spontaneous joint reversals of depth and
+  motion, as well as induced reversals of either motion or depth alone. We find
+  that depth reversals occur exclusively when the illusory volume is depth
+  symmetric (so that the shape of the volume remains unchanged). In contrast,
+  motion reversals occur at all view angles, but their frequency varies with
+  the motion speed. The probability of joint reversals is well approximated by
+  the product of the individual reversal probabilities, suggestive of two
+  independent random processes. We hypothesize that reversals of illusory
+  volumes are conditioned by prior experience of physical transformations in
+  the visual world.%
+    }
+    \verb{doi}
+    \verb 10.1167/12.1.17
+    \endverb
+    \field{issn}{1534-7362}
+    \field{number}{1}
+    \field{title}{{Believable change: bistable reversals are governed by
+  physical plausibility.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/22267054
+    \endverb
+    \field{volume}{12}
+    \verb{file}
+    \verb :home/veithweilnhammer/.local/share/data/Mendeley Ltd./Mendeley Deskt
+    \verb op/Downloaded/Pastukhov, Vonau, Braun - 2012 - Believable change bist
+    \verb able reversals are governed by physical plausibility.pdf:pdf
+    \endverb
+    \field{journaltitle}{Journal of vision}
+    \field{year}{2012}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Weilnhammer2014}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WVA}{%
+         family={Weilnhammer},
+         familyi={W\bibinitperiod},
+         given={V\bibnamedelima A},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LK}{%
+         family={Ludwig},
+         familyi={L\bibinitperiod},
+         given={K},
+         giveni={K},
+      }}%
+      {{hash=SP}{%
+         family={Sterzer},
+         familyi={S\bibinitperiod},
+         given={P},
+         giveni={P},
+      }}%
+      {{hash=HG}{%
+         family={Hesselmann},
+         familyi={H\bibinitperiod},
+         given={G},
+         giveni={G},
+      }}%
+    }
+    \keyw{Adult,Analysis of Variance,Depth Perception,Depth Perception:
+  physiology,Female,Humans,Male,Motion Perception,Motion Perception:
+  physiology,Photic Stimulation,Photic Stimulation: methods,Vision,
+  Binocular,Vision, Binocular: physiology,Young Adult}
+    \strng{namehash}{WVA+1}
+    \strng{fullhash}{WVALKSPHG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    During bistable vision perception spontaneously "switches" between two
+  mutually exclusive percepts despite constant sensory input. The endogenous
+  nature of these perceptual transitions has motivated extensive research aimed
+  at the underlying mechanisms, since spontaneous perceptual transitions of
+  bistable stimuli should in principle allow for a dissociation of processes
+  related to sensory stimulation from those related to conscious perception.
+  However, transitions from one conscious percept to another are often not
+  instantaneous, and participants usually report a considerable amount of mixed
+  or unclear percepts. This feature of bistable vision makes it difficult to
+  isolate transition-related visual processes. Here, we revisited an ambiguous
+  depth-from-motion stimulus which was first introduced to experimental
+  psychology more than 80 years ago. This rotating Lissajous figure might prove
+  useful in complementing other bistable stimuli, since its perceptual
+  transitions only occur at critical stimulus configurations and are virtually
+  instantaneous, thus facilitating the construction of a perceptually
+  equivalent replay condition. We found that three parameters of the Lissajous
+  figure - complexity, line width, and rotational speed - differentially
+  modulated its perceptual dominance durations and transition probabilities,
+  thus providing experimenters with a versatile tool to study the perceptual
+  dynamics of bistable vision.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.visres.2014.03.013
+    \endverb
+    \field{issn}{1878-5646}
+    \field{pages}{107\bibrangedash 12}
+    \field{title}{{Revisiting the Lissajous figure as a tool to study bistable
+  perception.}}
+    \verb{url}
+    \verb http://www.ncbi.nlm.nih.gov/pubmed/24718018
+    \endverb
+    \field{volume}{98}
+    \field{journaltitle}{Vision research}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Friston2007}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FKJ}{%
+         family={Friston},
+         familyi={F\bibinitperiod},
+         given={Karl\bibnamedelima J},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=SKE}{%
+         family={Stephan},
+         familyi={S\bibinitperiod},
+         given={Klaas\bibnamedelima E},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FKJSKE1}
+    \strng{fullhash}{FKJSKE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    If one formulates Helmholtz's ideas about perception in terms of modern-day
+  theories one arrives at a model of perceptual inference and learning that can
+  explain a remarkable range of neurobiological facts. Using constructs from
+  statistical physics it can be shown that the problems of inferring what cause
+  our sensory input and learning causal regularities in the sensorium can be
+  resolved using exactly the same principles. Furthermore, inference and
+  learning can proceed in a biologically plausible fashion. The ensuing scheme
+  rests on Empirical Bayes and hierarchical models of how sensory information
+  is generated. The use of hierarchical models enables the brain to construct
+  prior expectations in a dynamic and context-sensitive fashion. This scheme
+  provides a principled way to understand many aspects of the brain's
+  organisation and responses.In this paper, we suggest that these perceptual
+  processes are just one emergent property of systems that conform to a
+  free-energy principle. The free-energy considered here represents a bound on
+  the surprise inherent in any exchange with the environment, under
+  expectations encoded by its state or configuration. A system can minimise
+  free-energy by changing its configuration to change the way it samples the
+  environment, or to change its expectations. These changes correspond to
+  action and perception respectively and lead to an adaptive exchange with the
+  environment that is characteristic of biological systems. This treatment
+  implies that the system's state and structure encode an implicit and
+  probabilistic model of the environment. We will look at models entailed by
+  the brain and how minimisation of free-energy can explain its dynamics and
+  structure.%
+    }
+    \verb{doi}
+    \verb 10.1007/s11229-007-9237-y
+    \endverb
+    \field{issn}{0039-7857}
+    \field{number}{3}
+    \field{pages}{417\bibrangedash 458}
+    \field{title}{{Free-energy and the brain.}}
+    \verb{url}
+    \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2660582{\&}
+    \verb tool=pmcentrez{\&}rendertype=abstract
+    \endverb
+    \field{volume}{159}
+    \verb{file}
+    \verb :home/veithweilnhammer/.local/share/data/Mendeley Ltd./Mendeley Deskt
+    \verb op/Downloaded/Friston, Stephan - 2007 - Free-energy and the brain.pdf
+    \verb :pdf
+    \endverb
+    \field{journaltitle}{Synthese}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Stephan2009}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SKE}{%
+         family={Stephan},
+         familyi={S\bibinitperiod},
+         given={Klaas\bibnamedelima Enno},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+      {{hash=PWD}{%
+         family={Penny},
+         familyi={P\bibinitperiod},
+         given={Will\bibnamedelima D},
+         giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Daunizeau},
+         familyi={D\bibinitperiod},
+         given={Jean},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MRJ}{%
+         family={Moran},
+         familyi={M\bibinitperiod},
+         given={Rosalyn\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=FKJ}{%
+         family={Friston},
+         familyi={F\bibinitperiod},
+         given={Karl\bibnamedelima J},
+         giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Algorithms,Bayes Theorem,Brain,Brain: physiology,Cognition,Cognition:
+  physiology,Diagnostic Imaging,Humans,Models, Neurological}
+    \strng{namehash}{SKE+1}
+    \strng{fullhash}{SKEPWDDJMRJFKJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{abstract}{%
+    Bayesian model selection (BMS) is a powerful method for determining the
+  most likely among a set of competing hypotheses about the mechanisms that
+  generated observed data. BMS has recently found widespread application in
+  neuroimaging, particularly in the context of dynamic causal modelling (DCM).
+  However, so far, combining BMS results from several subjects has relied on
+  simple (fixed effects) metrics, e.g. the group Bayes factor (GBF), that do
+  not account for group heterogeneity or outliers. In this paper, we compare
+  the GBF with two random effects methods for BMS at the between-subject or
+  group level. These methods provide inference on model-space using a classical
+  and Bayesian perspective respectively. First, a classical (frequentist)
+  approach uses the log model evidence as a subject-specific summary statistic.
+  This enables one to use analysis of variance to test for differences in
+  log-evidences over models, relative to inter-subject differences. We then
+  consider the same problem in Bayesian terms and describe a novel hierarchical
+  model, which is optimised to furnish a probability density on the models
+  themselves. This new variational Bayes method rests on treating the model as
+  a random variable and estimating the parameters of a Dirichlet distribution
+  which describes the probabilities for all models considered. These
+  probabilities then define a multinomial distribution over model space,
+  allowing one to compute how likely it is that a specific model generated the
+  data of a randomly chosen subject as well as the exceedance probability of
+  one model being more likely than any other model. Using empirical and
+  synthetic data, we show that optimising a conditional density of the model
+  probabilities, given the log-evidences for each model over subjects, is more
+  informative and appropriate than both the GBF and frequentist tests of the
+  log-evidences. In particular, we found that the hierarchical Bayesian
+  approach is considerably more robust than either of the other approaches in
+  the presence of outliers. We expect that this new random effects method will
+  prove useful for a wide range of group studies, not only in the context of
+  DCM, but also for other modelling endeavours, e.g. comparing different source
+  reconstruction methods for EEG/MEG or selecting among competing computational
+  models of learning and decision-making.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.neuroimage.2009.03.025
+    \endverb
+    \field{issn}{1095-9572}
+    \field{number}{4}
+    \field{pages}{1004\bibrangedash 17}
+    \field{title}{{Bayesian model selection for group studies.}}
+    \verb{url}
+    \verb http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2703732{\&}
+    \verb tool=pmcentrez{\&}rendertype=abstract
+    \endverb
+    \field{volume}{46}
+    \verb{file}
+    \verb :home/veithweilnhammer/.local/share/data/Mendeley Ltd./Mendeley Deskt
+    \verb op/Downloaded/Stephan et al. - 2009 - Bayesian model selection for gr
+    \verb oup studies.pdf:pdf
+    \endverb
+    \field{journaltitle}{NeuroImage}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\enddatalist
+\endinput
