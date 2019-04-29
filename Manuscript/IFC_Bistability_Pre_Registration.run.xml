@@ -44,11 +44,11 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>IFC_BIstability_Manuscript.aux</file>
-      <file>IFC_BIstability_Manuscript-blx.bib</file>
+      <file>IFC_Bistability_Pre_Registration.aux</file>
+      <file>IFC_Bistability_Pre_Registration-blx.bib</file>
     </provides>
     <requires type="dynamic">
-      <file>IFC_BIstability_Manuscript.bbl</file>
+      <file>IFC_Bistability_Pre_Registration.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -70,20 +70,20 @@
     <cmdline>
       <binary>bibtex</binary>
       <option>-min-crossrefs 2</option>
-      <infile>IFC_BIstability_Manuscript</infile>
+      <infile>IFC_Bistability_Pre_Registration</infile>
     </cmdline>
     <input>
-      <file>IFC_BIstability_Manuscript.aux</file>
+      <file>IFC_Bistability_Pre_Registration.aux</file>
     </input>
     <output>
-      <file>IFC_BIstability_Manuscript.bbl</file>
+      <file>IFC_Bistability_Pre_Registration.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>IFC_BIstability_Manuscript.bbl</file>
+      <file>IFC_Bistability_Pre_Registration.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>IFC_BIstability_Manuscript.aux</file>
-      <file>IFC_BIstability_Manuscript-blx.bib</file>
+      <file>IFC_Bistability_Pre_Registration.aux</file>
+      <file>IFC_Bistability_Pre_Registration-blx.bib</file>
     </requires>
     <requires type="editable">
       <file>library.bib</file>
