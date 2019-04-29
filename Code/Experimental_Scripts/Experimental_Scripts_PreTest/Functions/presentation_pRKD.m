@@ -67,8 +67,8 @@ doublebuffer=1;
 screens=Screen('Screens');
 screenNumber=max(screens);
 
-%[w, rect] = Screen('OpenWindow', screenNumber, 0,[0 0 900 900], 32, doublebuffer+1, [], 128); % adjust antialiasing by last number
-[w, rect] = Screen('OpenWindow', screenNumber, 0,[], 32, doublebuffer+1, [], 128); % adjust antialiasing by last number
+[w, rect] = Screen('OpenWindow', screenNumber, 0,[0 0 900 900], 32, doublebuffer+1, [], 128); % adjust antialiasing by last number
+%[w, rect] = Screen('OpenWindow', screenNumber, 0,[], 32, doublebuffer+1, [], 128); % adjust antialiasing by last number
 Results.Monitor.rect = rect;
 
 

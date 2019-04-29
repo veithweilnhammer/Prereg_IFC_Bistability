@@ -9,7 +9,8 @@ root_dir = '/home/veithweilnhammer/Public/Git/Prereg_IFC_Bistability/Code/Experi
 BlueValue = '116' % Put in Blue Value from Heterochromatic flicker photometry
 Results.BlueValue = BlueValue;
 ObserverName= 'observer_1_veith' % Name of the observer
-which_run = 3;
+which_run = 3;12
+
 % R0: dummy run for trying different settings; 
 % R1: ambiguous run; 
 % R2: fully disambiguated run;
@@ -33,7 +34,7 @@ if which_run == 0
         load([root_dir  'Results/Results_' ObserverName '_Conv.mat'])
     end
     
-    transition_probability = NaN; 0.25; % NaN; probability of transition at each overlap. NaN for ambiguous stimulation.
+    transition_probability = 0.25; % probability of transition at each overlap. NaN for ambiguous stimulation.
     
     clear Results
     [Results] = presentation_pRKD(root_dir, SettingsName, ObserverName, BlueValue, session, transition_probability); % run presentation
@@ -128,7 +129,7 @@ if which_run == 3
         load([root_dir  'Results/Results_' ObserverName '_Conv.mat'])
     end
     
-    transition_probability = 0.25; %mean(mean(frequency(:,[1]))); % average transition frequency computed in run R1
+    transition_probability = mean(mean(frequency(:,[1]))); % average transition frequency computed in run R1;
     
     clear Results
     [Results] = presentation_pRKD_certainty(root_dir, SettingsName, ObserverName, BlueValue, session, transition_probability);

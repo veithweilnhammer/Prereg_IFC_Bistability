@@ -80,6 +80,8 @@ Experimental_Scripts/Experimental_Scripts_fMRI_PreTest/experimental_script_pRDK.
 
 Experimental_Scripts/Experimental_Scripts_fMRI_PreTest/Settings/Settings_pRDK_pretest.m 
 
+Experimental_Scripts/Experimental_Scripts_fMRI_PreTest/Settings/Settings_pRDK_certainty.m 
+
 **3.5. Hetereochromatic Flicker Photometry**
 
 Experimental_Scripts/Heterochromatic/experimental_script_heterochromatic.m

@@ -251,7 +251,7 @@ for trial = 1:trial_n
                     if Results.template.discrete_steps{trial}(max(find(overlaps < frames))) == Results.PDir{trial}(length(Results.PDir{trial})) && isnan(Results.Congruent_Rating(trial));
                         
                         Screen('DrawDots', w, [0; 0], s_fix_r, ramp_blue(frames,:)+ramp_red(frames,:), center,dot_type);
-                        [nx, ny, textbounds] = DrawFormattedText(w, ['Switch Rating for Trial ' num2str(trial) '\n\n \n\n \n\nClear: Press [1] \n\nRather clear: Press [2] \n\nRather unclear: Press [3] \n\nUnclear: Press [4]'], ...
+                        [nx, ny, textbounds] = DrawFormattedText(w, ['Perceptual Rating for Trial ' num2str(trial) '\n\n \n\n \n\nClear: Press [1] \n\nRather clear: Press [2] \n\nRather unclear: Press [3] \n\nUnclear: Press [4]'], ...
                             center(1)-rect(3)/8, center(2)-rect(4)/6 , ramp_blue(frames,:)+ramp_red(frames,:));
                         Screen('Flip',w);
                         
@@ -270,7 +270,7 @@ for trial = 1:trial_n
                     elseif Results.template.discrete_steps{trial}(max(find(overlaps < frames))) ~= Results.PDir{trial}(length(Results.PDir{trial})) && isnan(Results.Incongruent_Rating(trial));
                         
                         Screen('DrawDots', w, [0; 0], s_fix_r, ramp_blue(frames,:)+ramp_red(frames,:), center,dot_type);
-                        [nx, ny, textbounds] = DrawFormattedText(w, ['Switch Rating for Trial ' num2str(trial) '\n\n \n\n \n\nClear: Press [1] \n\nRather clear: Press [2] \n\nRather unclear: Press [3] \n\nUnclear: Press [4]'], ...
+                        [nx, ny, textbounds] = DrawFormattedText(w, ['Perceptual Rating for Trial ' num2str(trial) '\n\n \n\n \n\nClear: Press [1] \n\nRather clear: Press [2] \n\nRather unclear: Press [3] \n\nUnclear: Press [4]'], ...
                             center(1)-rect(3)/8, center(2)-rect(4)/6 , ramp_blue(frames,:)+ramp_red(frames,:));
                         Screen('Flip',w);
                         
