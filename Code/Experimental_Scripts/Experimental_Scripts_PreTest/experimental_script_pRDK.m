@@ -129,7 +129,7 @@ if which_run == 3
         load([root_dir  'Results/Results_' ObserverName '_Conv.mat'])
     end
     
-    transition_probability = mean(mean(frequency(:,[1]))); % average transition frequency computed in run R1;
+    transition_probability = 0.15; % average transition frequency computed in run R1;
     
     clear Results
     [Results] = presentation_pRKD_certainty(root_dir, SettingsName, ObserverName, BlueValue, session, transition_probability);
