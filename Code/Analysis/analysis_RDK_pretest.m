@@ -30,16 +30,19 @@ Exclusion.Criteria.Pcorrect = 0.75; % do not consider participants who did not a
 %%
 %% Report conventional data
 %%
-
+Participants = 1:length(observers);
+for idx = 1:length(Exclusion.participants_to_exclude)
+Participants(Participants == Exclusion.participants_to_exclude(idx)) = [];
+end
 %% P correct
 Conditions1 = {'d1'; 'd2'; 'd3'; 'd4'; 'd5'; 'd6'};
 
 figure(), set(gcf, 'Color', 'w')
 subplot(2,1,1)
-boxplot(Pcorrect(:,:,3)'), set(gca, 'XTick', [1:7],'XTickLabel', Conditions1), xlabel('Disambiguation'), ylabel('Percent Correct')
+boxplot(Pcorrect(:,Participants,3)'), set(gca, 'XTick', [1:7],'XTickLabel', Conditions1), xlabel('Disambiguation'), ylabel('Percent Correct')
 
 subplot(2,1,2)
-boxplot(PhaseDur(:,:,3)'), set(gca, 'XTick', [1:7],'XTickLabel', Conditions1), xlabel('Disambiguation'), ylabel('PhaseDur'), ylim([0 40])
+boxplot(PhaseDur(:,Participants,3)'), set(gca, 'XTick', [1:7],'XTickLabel', Conditions1), xlabel('Disambiguation'), ylabel('PhaseDur'), ylim([0 40])
 
 %% Perform one-way Repeated measures ANOVA: Conventional Data
 %%
