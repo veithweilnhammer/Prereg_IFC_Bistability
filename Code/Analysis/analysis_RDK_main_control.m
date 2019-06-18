@@ -10,8 +10,8 @@ close all
 
 %% Find results files
 
-root_dir = '/home/veithweilnhammer/Public/Git/scripts/Matlab/RDK/parametric_RDK/Experimental_Scripts/Experimental_Scripts_fMRI/Results'
-
+root_dir = '/home/veithweilnhammer/Public/Git/Prereg_IFC_Bistability/Code/Experimental_Scripts/Experimental_Scripts_fMRI/Results/'
+cd(root_dir)
 observers = dir(fullfile(root_dir, '*_run_1*'))
 
 
@@ -24,6 +24,11 @@ Exclusion.Criteria.AveragePhase = 35; % do not consider participants which show 
 Exclusion.Criteria.Pcorrect = 0.75; % do not consider participants who did not achieve an average accuracy above 75% in he
 
 [Pcorrect rBias Frequency PhaseDur Unclear GLM Exclusion] = prepare_data_main(observers, Exclusion);
+
+%Pcorrect(:,Exclusion.participants_to_exclude,:) = [];
+%rBias(:,Exclusion.participants_to_exclude,:) = [];
+%PhaseDur(:,Exclusion.participants_to_exclude,:) = [];
+%Unclear(:,Exclusion.participants_to_exclude,:) = [];
 
 
 %%
@@ -49,7 +54,7 @@ boxplot(nanmean(Pcorrect,3)'), set(gca, 'XTick', [1:7],'XTickLabel', Conditions1
 
 %% Pcorrect
 for idx = 1:length(Conditions1)
-    Y(:,idx) = nanmean(Pcorrect(idx,:,3:6),3)';
+    Y(:,idx) = nanmean(Pcorrect(idx,:,2:4),3)';
 end
 t = table(Y(:,1), Y(:,2), Y(:,3), Y(:,4), Y(:,5), Y(:,6),'VariableNames', {'d1', 'd2', 'd3', 'd4', 'd5', 'd6'});
 Disambiguation_Level = [1:6]';
@@ -59,7 +64,7 @@ ranova(rm)
 
 %% rBias
 for idx = 1:length(Conditions1)
-    Y(:,idx) = nanmean(rBias(idx,:,3:6),3)';
+    Y(:,idx) = nanmean(rBias(idx,:,2:4),3)';
 end
 t = table(Y(:,1), Y(:,2), Y(:,3), Y(:,4), Y(:,5), Y(:,6),'VariableNames', {'d1', 'd2', 'd3', 'd4', 'd5', 'd6'});
 Disambiguation_Level = [1:6]';
@@ -69,7 +74,7 @@ ranova(rm)
 
 %% Unclear
 for idx = 1:length(Conditions1)
-    Y(:,idx) = nanmean(Unclear(idx,:,3:6),3)';
+    Y(:,idx) = nanmean(Unclear(idx,:,2:4),3)';
 end
 t = table(Y(:,1), Y(:,2), Y(:,3), Y(:,4), Y(:,5), Y(:,6),'VariableNames', {'d1', 'd2', 'd3', 'd4', 'd5', 'd6'});
 Disambiguation_Level = [1:6]';
@@ -79,7 +84,7 @@ ranova(rm)
 
 %% Pdur
 for idx = 1:length(Conditions1)
-    Y(:,idx) = nanmean(PhaseDur(idx,:,3:6),3)';
+    Y(:,idx) = nanmean(PhaseDur(idx,:,2:4),3)';
 end
 t = table(Y(:,1), Y(:,2), Y(:,3), Y(:,4), Y(:,5), Y(:,6),'VariableNames', {'d1', 'd2', 'd3', 'd4', 'd5', 'd6'});
 Disambiguation_Level = [1:6]';

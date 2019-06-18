@@ -4,12 +4,12 @@ close all
 
 %% fMRI Experiment
 
-root_dir = '/home/veithweilnhammer/Public/Git/Prereg_IFC_BIstability/Code/Experimental_Scripts/Experimental_Scripts_fMRI/'; % root directory for settings and results
+root_dir = '/home/veithweilnhammer/Public/Git/Prereg_IFC_Bistability/Code/Experimental_Scripts/Experimental_Scripts_fMRI/'; % root directory for settings and results
 BlueValue = '116' % Put in Blue Value from Heterochromatic flicker photometry
 Results.BlueValue = BlueValue;
 ObserverName= 'observer_1_veith' % Name of the observer
 SettingsName= 'pRDK'; % points to Settings file
-which_run = 4; %R0: dummy run for trying different settings; R1: ambiguous runs; R2-R4: runs with parametric disambiguation
+which_run = 0; %R0: dummy run for trying different settings; R1: ambiguous runs; R2-R4: runs with parametric disambiguation
 
 
 %%

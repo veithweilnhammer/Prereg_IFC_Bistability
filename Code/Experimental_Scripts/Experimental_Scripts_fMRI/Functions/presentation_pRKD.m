@@ -49,12 +49,12 @@ KbName('UnifyKeyNames');
 escapeKey = KbName('ESCAPE'); 
 
 %% KbNames PC
-left=KbName('LeftArrow'); right=KbName('RightArrow');
-down=KbName('DownArrow'); 
+%left=KbName('LeftArrow'); right=KbName('RightArrow');
+%down=KbName('DownArrow'); 
 
 %% KbNames Scannner
-% left=KbName('1!'); right=KbName('2@');
-% down=KbName('3#'); 
+ left=KbName('1!'); right=KbName('2@');
+ down=KbName('3#'); 
 
 %%
 trigger=KbName('5%');
@@ -67,7 +67,7 @@ doublebuffer=1;
 screens=Screen('Screens');
 screenNumber=max(screens);
 
-[w, rect] = Screen('OpenWindow', screenNumber, 0,[0 0 900 900], 32, doublebuffer+1, [], 128); % adjust antialiasing by last number
+[w, rect] = Screen('OpenWindow', screenNumber, 0,[1800 0 1800+900 900], 32, doublebuffer+1, [], 128); % adjust antialiasing by last number
 Results.Monitor.rect = rect;
 
 

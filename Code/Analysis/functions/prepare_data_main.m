@@ -16,7 +16,7 @@ function [Pcorrect rBias Frequency PhaseDur Unclear GLM Exclusion] = prepare_dat
 % Updated Exlusion-struct
 
 %% Relevant Settings
-n_runs = 6;
+n_runs = 4;
 frames_per_rot = 720;
 rot_per_block = 10;
 overlaps_per_rot = 8;
@@ -28,7 +28,7 @@ for idx = 1:length(observers) % loop over participants
     for iidx = 1:n_runs % loop over runs
         
         clear Results
-        load([observers(idx).name(1:24) '_run_' num2str(iidx) '.mat']) % load results
+        load([observers(idx).name(1:28) '_run_' num2str(iidx) '.mat']) % load results
         
         for trial = 1:length(Results.PDir)
             
@@ -93,13 +93,10 @@ for idx = 1:length(observers) % loop over participants
     end
 end
 
-%% exlcude participants based on average phase duration or performance in fully disambiguated condition
-Exclusion.participants_to_exclude = unique([find(mean(mean(PhaseDur(:,:,1:2)),3) > Exclusion.Criteria.AveragePhase) find(mean(Pcorrect(6,:,3:6),3) < Exclusion.Criteria.Pcorrect)]);
 
-Pcorrect(:,Exclusion.participants_to_exclude,:) = [];
-rBias(:,Exclusion.participants_to_exclude,:) = [];
-PhaseDur(:,Exclusion.participants_to_exclude,:) = [];
-Unclear(:,Exclusion.participants_to_exclude,:) = [];
+
+
+%% exlcude participants based on average phase duration or performance in fully disambiguated condition
 
 % Exclusion of individual blocks because of no perceptual event
 blocks_to_exclude = find(PhaseDur>Exclusion.Criteria.PhaseDuration);
@@ -108,4 +105,7 @@ PhaseDur(blocks_to_exclude) = NaN;
 Unclear(blocks_to_exclude) = NaN;
 Pcorrect(blocks_to_exclude) = NaN;
 rBias(blocks_to_exclude) = NaN;
+
+
+Exclusion.participants_to_exclude = unique([find(nanmean(nanmean(PhaseDur(:,:,:)),3) > Exclusion.Criteria.AveragePhase) find(nanmean(Pcorrect(6,:,2:4),3) < Exclusion.Criteria.Pcorrect)]);
 

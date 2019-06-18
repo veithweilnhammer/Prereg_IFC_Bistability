@@ -1,7 +1,8 @@
 %%
 %% Conditions
 
-disambiguation = [0.15 0.30 0.45 0.60 0.75 1]; % levels of disambiguation
+%disambiguation = [0.15 0.30 0.45 0.60 0.75 1]; % levels of disambiguation
+disambiguation = [0.95 0.96 0.97 0.98 0.99 1]; % levels of disambiguation
 
 disambiguation = disambiguation(randperm(length(disambiguation))); % randomize order of conditions.
 
@@ -97,13 +98,13 @@ size_factor = 300; Results.Stimulus.size_factor = size_factor; % determines size
 
 %% stereo
 
-stereo_d = floor(frames_per_rot/200); Results.stereo_d = stereo_d; % shift of disambiguated dots vs. each other. 
+stereo_d = floor(frames_per_rot/100); Results.stereo_d = stereo_d; % shift of disambiguated dots vs. each other. 
 
 %% Monitor
 
-mon_width   = 36.5;  Results.Monitor.mon_width = mon_width; % horizontal dimension of viewable screen (cm)
+mon_width   = 39;  Results.Monitor.mon_width = mon_width; % horizontal dimension of viewable screen (cm)
 
-v_dist      = 60;  Results.Monitor.v_dist = v_dist; % viewing distance (cm)
+v_dist      = 158;  Results.Monitor.v_dist = v_dist; % viewing distance (cm)
 
 waitframes = 1;
 

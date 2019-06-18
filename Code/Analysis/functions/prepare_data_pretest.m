@@ -82,7 +82,7 @@ for idx = 1:length(observers)
 end
 
 %% exlcude participants based on average phase duration or performance in fully disambiguated condition
-Exclusion.participants_to_exclude = unique([find(mean(nanmean(PhaseDur(2:end,:,1)),3) > Exclusion.Criteria.AveragePhase) find(mean(Pcorrect(6,:,2),3) < Exclusion.Criteria.Pcorrect) find(Exclusion.amb_blocks_excluded >=3)]);
+Exclusion.participants_to_exclude = unique([find(mean(nanmean(PhaseDur(2:end,:,1)),3) > Exclusion.Criteria.AveragePhase) find(nanmean(Pcorrect(:,:,2),1) < Exclusion.Criteria.Pcorrect) find(Exclusion.amb_blocks_excluded >=3)]);
 
 
 
