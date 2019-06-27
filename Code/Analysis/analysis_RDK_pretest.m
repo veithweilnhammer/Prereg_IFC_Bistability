@@ -20,11 +20,13 @@ observers = dir(fullfile(root_dir, '*_run_1*'))
 %% Prepare behavioural data + Apply Exclusion Criteria
 %%
 
-Exclusion.Criteria.PhaseDuration = 118; % do not consider blocks in which participants did not perceive perceptual transitions;
-Exclusion.Criteria.AveragePhase = 35; % do not consider participants which show perceptual phases longer than 35 sec on average;
+Exclusion.Criteria.PhaseDuration = 110; % do not consider blocks in which participants did not perceive perceptual transitions;
+Exclusion.Criteria.AveragePhase = 36; % do not consider participants which show perceptual phases longer than 35 sec on average;
 Exclusion.Criteria.Pcorrect = 0.75; % do not consider participants who did not achieve an average accuracy above 75% in he
 
 [Pcorrect rBias Frequency PhaseDur Unclear congruent_Rating incongruent_Rating Exclusion] = prepare_data_pretest(observers, Exclusion);
+
+
 
 
 %%

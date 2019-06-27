@@ -68,7 +68,7 @@ for idx = 1:length(observers) % loop over participants
 end
 
 %% Exclusion of individual blocks because of no perceptual event
-blocks_to_exclude = unique([find(PhaseDur>Exclusion.Criteria.PhaseDuration) find(isnan(PhaseDur) == 1)]);
+blocks_to_exclude = unique([find(PhaseDur>Exclusion.Criteria.PhaseDuration); find(isnan(PhaseDur) == 1)]);
 
 PhaseDur(blocks_to_exclude) = NaN;
 Unclear(blocks_to_exclude) = NaN;
@@ -82,7 +82,7 @@ for idx = 1:length(observers)
 end
 
 %% exlcude participants based on average phase duration or performance in fully disambiguated condition
-Exclusion.participants_to_exclude = unique([find(mean(nanmean(PhaseDur(2:end,:,1)),3) > Exclusion.Criteria.AveragePhase) find(nanmean(Pcorrect(:,:,2),1) < Exclusion.Criteria.Pcorrect) find(Exclusion.amb_blocks_excluded >=3)]);
+Exclusion.participants_to_exclude = unique([find(mean(nanmean(PhaseDur(1:end,:,1)),3) > Exclusion.Criteria.AveragePhase) find(nanmean(Pcorrect(:,:,2),1) < Exclusion.Criteria.Pcorrect) find(Exclusion.amb_blocks_excluded >=3)]);
 
 
 
