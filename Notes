@@ -4,3 +4,18 @@ Erster Proband: Andere Dicoms, ansonsten gut.
 Observer011: Psychophysik strange.
 
 observer001: Psychtoolbox verkehrt herum .... ??
+
+PE_observer_003: HeadCoil nicht connected in run 1 und 2
+5: ep2d_bold: Main Expeimrent Run 1 (discard!)
+6: ep2d_bold: Main Expeimrent Run 2 (discard?)
+8: ep2d_bold: Main Expeimrent Run 3
+9: ep2d_bold: Main Expeimrent Run 4
+10: ep2d_bold: Control Experiment Run 1
+12: ep2d_bold: Main Experiment Run 1 (use!)
+
+PE_observer_015:
+MPRAGE 02 abgebrochen
+4: MRPAGE 
+Patientin bricht Untersuchung ab. 
+
+
